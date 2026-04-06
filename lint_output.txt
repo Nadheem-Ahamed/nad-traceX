@@ -1,0 +1,97 @@
+
+> vite_react_shadcn_ts@0.0.0 lint
+> eslint .
+
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\components\ui\badge.tsx
+  29:17  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\components\ui\button.tsx
+  50:18  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\components\ui\command.tsx
+  24:11  error  An interface declaring no members is equivalent to its supertype  @typescript-eslint/no-empty-object-type
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\components\ui\form.tsx
+  129:10  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\components\ui\navigation-menu.tsx
+  111:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\components\ui\sidebar.tsx
+  636:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\components\ui\sonner.tsx
+  27:19  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\components\ui\textarea.tsx
+  5:18  error  An interface declaring no members is equivalent to its supertype  @typescript-eslint/no-empty-object-type
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\components\ui\toggle.tsx
+  37:18  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\hooks\useAuth.tsx
+  63:17  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\hooks\useTheme.tsx
+  31:17  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\i18n\LanguageContext.tsx
+  35:17  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\AdminPanel.tsx
+  84:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\Auth.tsx
+  46:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\Chat.tsx
+  90:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\Conversations.tsx
+  110:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\ForgotPassword.tsx
+  26:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\Home.tsx
+  18:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\ItemDetail.tsx
+  145:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\MapView.tsx
+  54:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\Notifications.tsx
+  115:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\PostItem.tsx
+   92:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\Profile.tsx
+  64:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\ResetPassword.tsx
+  60:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\Settings.tsx
+  45:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\src\pages\UserProfile.tsx
+   84:124  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   91:18   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:121  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:18   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\kames\Downloads\trace-x-main\trace-x-main\tailwind.config.ts
+  105:13  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+✖ 36 problems (26 errors, 10 warnings)
+
